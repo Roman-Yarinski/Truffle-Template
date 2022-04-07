@@ -1,6 +1,6 @@
-# Duch Auction smart contracts
+# < Project Name > smart contracts
 
-This repo will have a code of Duch Auction Smart Contracts.
+This repo will have a code of < Project Name > Smart Contracts.
 
 ## Overview
 
